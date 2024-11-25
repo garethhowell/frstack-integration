@@ -29,7 +29,7 @@ def _verify_response_or_raise(response: aiohttp.ClientResponse) -> None:
     """Verify that the response is valid."""
     if response.status in (401, 403):
         msg = "Invalid credentials"
-        raise FRSTackApiClientAuthenticationError(
+        raise FRStackApiClientAuthenticationError(
             msg,
         )
     response.raise_for_status()
