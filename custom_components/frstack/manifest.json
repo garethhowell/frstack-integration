@@ -1,0 +1,10 @@
+{
+  "domain": "frstack",
+  "name": "FRStack",
+  "documentation": "https://github.com/garethhowell/frstack",
+  "issue_tracker": "https://github.com/garethhowell/frstack/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@garethhowell"],
+  "requirements": []
+}

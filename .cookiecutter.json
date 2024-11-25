@@ -1,0 +1,13 @@
+{
+  "_checkout": "2021.1.1",
+  "_output_dir": "/Users/garethhowell/local/dev/frstack-integration",
+  "_repo_dir": "/Users/garethhowell/.cookiecutters/cookiecutter-homeassistant-custom-component",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "Frstack",
+  "domain_name": "frstack",
+  "friendly_name": "FRStack",
+  "github_user": "garethhowell",
+  "project_name": "frstack",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}
